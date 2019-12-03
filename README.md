@@ -6,7 +6,7 @@ Solutions for Advent Of Code 2019. Every day is done in a different language.
 |---|---|---|---|
 |[01](https://adventofcode.com/2019/day/1)|The Tyranny of the Rocket Equation|[Haskell](/1/1.hs)|[Haskell](1/2.hs)|
 |[02](https://adventofcode.com/2019/day/2)|1202 Program Alarm|[Ruby](/2/1.rb)|[Ruby](/2/2.rb)|
-|[03](https://adventofcode.com/2019/day/3)|-|-|-|
+|[03](https://adventofcode.com/2019/day/3)|Crossed Wires|[CoffeeScript](/3/1.coffee)|[CoffeeScript](/3/2.coffee)|
 |[04](https://adventofcode.com/2019/day/4)|-|-|-|
 |[05](https://adventofcode.com/2019/day/5)|-|-|-|
 |[06](https://adventofcode.com/2019/day/6)|-|-|-|
