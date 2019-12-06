@@ -9,7 +9,7 @@ Solutions for Advent of Code 2019. Every day is done in a different language.
 |[03](https://adventofcode.com/2019/day/3) |Crossed Wires                     |[CoffeeScript](/3/1.coffee)|[CoffeeScript](/3/2.coffee)|
 |[04](https://adventofcode.com/2019/day/4) |Secure Container                  |[Perl](/4/1.pl)            |[Perl](/4/2.pl)            |
 |[05](https://adventofcode.com/2019/day/5) |Sunny with a Chance of Asteroids  |[PHP](/5/1.php)            |[PHP](/5/2.php)            |
-|[06](https://adventofcode.com/2019/day/6) |-                                 |-                          |-                          |
+|[06](https://adventofcode.com/2019/day/6) |Universal Orbit Map               |[Clojure](/6/1.clj)        |[Clojure](/6/2.clj)        |
 |[07](https://adventofcode.com/2019/day/7) |-                                 |-                          |-                          |
 |[08](https://adventofcode.com/2019/day/8) |-                                 |-                          |-                          |
 |[09](https://adventofcode.com/2019/day/9) |-                                 |-                          |-                          |
