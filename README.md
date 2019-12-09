@@ -12,7 +12,7 @@ Solutions for Advent of Code 2019. Every day is done in a different language.
 |[06](https://adventofcode.com/2019/day/6) |Universal Orbit Map               |[Clojure](/6/1.clj)        |[Clojure](/6/2.clj)        |
 |[07](https://adventofcode.com/2019/day/7) |Amplification Circuit             |[Bash](/7/1.sh)            |[Bash](/7/2.sh)            |
 |[08](https://adventofcode.com/2019/day/8) |Space Image Format                |[Crystal](/8/1.cr)         |[Crystal](/8/2.cr)         |
-|[09](https://adventofcode.com/2019/day/9) |-                                 |-                          |-                          |
+|[09](https://adventofcode.com/2019/day/9) |Sensor Boost                      |[Elixir](/9/1-2.exs)       |[Elixir](/9/1-2.exs)       |
 |[10](https://adventofcode.com/2019/day/10)|-                                 |-                          |-                          |
 |[11](https://adventofcode.com/2019/day/11)|-                                 |-                          |-                          |
 |[12](https://adventofcode.com/2019/day/12)|-                                 |-                          |-                          |
