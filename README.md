@@ -13,7 +13,7 @@ Solutions for Advent of Code 2019. Every day is done in a different language.
 |[07](https://adventofcode.com/2019/day/7) |Amplification Circuit             |[Bash](/7/1.sh)            |[Bash](/7/2.sh)            |
 |[08](https://adventofcode.com/2019/day/8) |Space Image Format                |[Crystal](/8/1.cr)         |[Crystal](/8/2.cr)         |
 |[09](https://adventofcode.com/2019/day/9) |Sensor Boost                      |[Elixir](/9/1-2.exs)       |[Elixir](/9/1-2.exs)       |
-|[10](https://adventofcode.com/2019/day/10)|-                                 |-                          |-                          |
+|[10](https://adventofcode.com/2019/day/10)|Monitoring Station                |[Go](/10/1.go)             |[Go](/10/2.go)             |
 |[11](https://adventofcode.com/2019/day/11)|-                                 |-                          |-                          |
 |[12](https://adventofcode.com/2019/day/12)|-                                 |-                          |-                          |
 |[13](https://adventofcode.com/2019/day/13)|-                                 |-                          |-                          |
